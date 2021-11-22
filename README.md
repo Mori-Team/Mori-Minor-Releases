@@ -19,3 +19,7 @@ This repository contains APK releases for Mori Minor XR Companion. Compatible wi
 13) Put on the headset and navigate to *Apps* and change the app filtering dropdown selection from *All* to *Unknown Sources*.
 14) Find *Mori Minor* on the list and launch it.
 15) If prompted to allow Microphone access, allow it in order to use the voice command functionality to talk to Mori.
+
+## Privacy
+
+This app uses a third party voice processors ([Meta/Oculus](https://www.oculus.com/legal/privacy-policy/)/[Wit.ai](https://wit.ai/privacy)) to understand what you're saying to Mori. Voice data is sent to these services to understand your commands, based on your voluntary activation. If you do not wish to be recorded at any point, whether intentionally or unintentionally, you should deny Microphone access when running this app for the first time. We do not store audio recordings or retain transcripts, however our third party data processors. By downloading this app, you acknowledge you understand this privacy statement and the privacy statements of our third party voice processors.
