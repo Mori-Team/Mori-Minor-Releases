@@ -18,6 +18,7 @@ This repository contains APK releases for Mori Minor XR Companion. Compatible wi
 12) When the transfer is complete, the green bar label text will change to *All tasks completed*.
 
 ## First-Time Instructions
+
 1) Put on the headset and navigate to *Apps* and change the app filtering dropdown selection from *All* to *Unknown Sources*.
 2) Find *Mori Minor* on the list and launch it.
 3) Pick up your controllers and launch Mori Minor - this experience does not support hand tracking.
@@ -34,15 +35,18 @@ This repository contains APK releases for Mori Minor XR Companion. Compatible wi
 14) Mori will walk around the scene by himself, looking at the scenery when you are not interacting with him.
 
 ## Using Voice Commands
+
 1) Tap the A button on your right controller to activate Mori's *listening mode*. A green icon will appear above his head while he is listening.
 2) Try saying one of these phrases while he is listening:
   - What's your name?
   - Hello Mori!
   - Mori, can you dance?
+  - Have a rest Mori
 3) The green listening icon will disappear when it matches a supported voice command, otherwise listening mode will deactivate after 20 seconds.
 4) If Mori didn't understand you, he will speak back and tell you that he does not understand.
 
 ## Features
+
 * Grab and hold Mori by using the grip button on your controllers.
 * Pick up and move Mori around the scene.
 * Grab and reposition the scene using the grip button to line it up with a real-world surface.
