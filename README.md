@@ -5,7 +5,7 @@ This repository contains APK releases for Mori Minor XR Companion. Compatible wi
 ## Installation Instructions
 
 1) [Download and install SideQuest](https://sidequestvr.com/download), following their setup instructions to create an Oculus Developer account.
-2) [Download the latest APK release](https://github.com/Mori-Team/Mori-Minor-Releases/releases/latest] of Mori Minor.
+2) [Download the latest APK release](https://github.com/Mori-Team/Mori-Minor-Releases/releases/latest) of Mori Minor.
 3) Open SideQuest.
 4) Plug in your Oculus Quest USB cable.
 5) Put on the headset.
